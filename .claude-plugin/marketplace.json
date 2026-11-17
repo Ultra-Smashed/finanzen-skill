@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "finanzen",
+  "description": "Belege, Rechnungs-Check, Liquidität und der Abo-Finder, egal mit welchem Programm.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "finanzen",
+      "description": "Erledigt den Finanz-Papierkram unabhängig vom Buchhaltungsprogramm: Belege, Rechnungs-Check, Liquidität, Mahnwesen, Abo-Finder, Fördermittel.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
